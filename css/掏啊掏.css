@@ -1,0 +1,318 @@
+body,dl,dd,p,h1,h2,h3,h4,h5,h6{margin:0;font-size:12px;}
+ol,ul{margin:0;padding:0;list-style:none;}
+a{text-decoration:none;}
+img{border:none;
+	vertical-align: top
+    ;}
+    									
+			.fl{
+				float: left;
+			}
+			.fr{
+				float: right;
+			}
+			.clearFix:after{
+				content:"";
+				display: block;
+				clear:both;
+			}
+			input{
+					padding:0;
+					margin:0;
+					border:0px solid #ababab;
+				}
+			.dingbu{
+				width: 100%;
+				height: 100%;
+				margin: 0 auto;
+				background-color: #f5f5f5;
+			}
+
+			.top{
+				width: 1190px;
+				height: 35px;
+				font-size: 12px;
+				margin: 0 auto;	
+				margin-bottom: 7px;	
+			}
+			.dk{
+				height: 35px;
+				line-height: 35px;
+				color: #f22e00;
+				margin-left: 6px;
+			}
+			.do{
+				height: 35px;
+				line-height: 35px;
+				color: #6c6c6c;
+				margin-left: 7px;
+				margin-right: 19px;
+			}
+			.wangzhan{
+				height: 35px;
+				line-height: 35px;
+				
+			}
+			.a1{
+				color: #6c6c6c;
+			}
+			.taobao{
+				position: relative;
+			}
+			/*.i1{
+				position: absolute;
+				width: 11px;
+				height: 12px;
+				top: 203px;
+				left: 936px;
+				background:url(../img/徐碧.jpg) no-repeat ;
+				}*/
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+			
+		
+			
+			/*     广告     */
+			.tupian{
+				width: 1190px;
+				height: 76px;
+				margin: 0 auto;
+				margin-top: 6px;
+			}
+			.guanggao{
+				width: 1190px;
+				height: 172px;
+				margin: 0 auto;
+			}
+			.pic1{
+				margin-top: 102px;
+				margin-left: -69px;
+			}
+		
+			.guanggao_you{
+				width: 991px;
+				height: 172px;
+			}
+			.shang{
+				width: 1000px;
+				height: 131px;
+				
+			}
+			.shang_zuo{
+				width: 759px;
+				height: 131px;
+				margin-left: 57px;
+			}
+			.tianmao{
+				width: 759px;
+				height: 50px;
+				}
+		.tianmao1{
+				margin-top: 37px;
+				width: 50px;
+				height: 25px;
+				line-height: 25px;
+				background-color: #ff5400;
+			}
+			.tianmao2{
+				margin-top: 37px;
+				width: 50px;
+				height: 25px;
+				line-height: 25px;
+			}
+			.tianmao3{
+				margin-top: 37px;
+				width: 50px;
+				height: 25px;
+				line-height: 25px;
+			}
+			.shang_you{
+				width: 115px;
+				height: 131px;
+				margin-left: 66px;
+				margin-top: 17px;
+				
+			}
+			.n2{
+				width: 759px;
+				height: 40px;
+				}
+			.b1{
+				position: relative;
+			}
+			 #pw{
+				width: 618px;
+				height: 40px;
+				text-indent: 32px;
+				border: 5px solid #ff5400;
+				background: url(../img/92.jif.gif) no-repeat 6px 15px;
+				
+			}
+			/*i{
+				position: absolute;
+				width: 17px;
+				height: 15px;
+				top: 203px;
+				left: 936px;
+				background: url(../img/94.jif.gif)  no-repeat ;
+				}*/
+				
+			
+			.n1{
+				width: 24px;
+				height: 40px;
+				line-height: 24px;
+				}
+			.n1 a{
+				color: #6c6c6c;
+				}
+			.n4{
+				width: 100px;
+				height: 50px;
+				line-height: 50px;
+				text-align: center;
+				background-color: #ff5400;
+				}
+				.n5{
+					width: 759px;
+					height: 30px;
+					line-height: 30px;
+					word-spacing: 3px;
+					}
+				.l1{
+					color: #ff5400;
+					}
+				.l2{
+					color: #6c6c6c;
+					}
+				.l3{
+					margin-left: 13px;	
+					}
+			
+			.xia{
+				width: 997px;
+				height: 41px;
+				line-height: 63px;
+				border-bottom: 1px solid #ff5400;
+			}
+			.c4{
+				margin-left: 20px;
+				margin-right: 28px;
+				color: #ff5400;
+			}
+			.c1{
+				margin-right: 28px;
+				color: #ff5400;
+			}
+			.c2{
+				margin-left: -7px;
+				margin-right: 18px;
+				color: #ff5400;
+			}
+			.c3{
+				margin-right: 22px;
+				color: #3c3c3c;
+			}
+			
+			/*内容*/
+			
+			
+			/*.neirong{
+				width: 1190px;
+				height: 3187px;
+				margin: 0 auto;
+			}
+			logo{
+				margin-left: -69px;
+			}
+			.neirong_zuo{
+				width: 893px;
+				height: 491px;
+				margin-right: 7px;
+			}
+			.neirong_you{
+				width: 290px;
+				height: 491px;
+			}
+			
+	*/
+				<div class="shenghuo">
+					<div class="sb">
+						<a href="#">生活服务</a>
+					</div>
+					<div class="che">
+						<div class="che1">
+							<ul class="k1 cleanFix">
+								<li class="l1 fl">
+									<div>
+										<a href="#"><img src="img/7.jif.gif "/></a>												
+									</div>
+									<div class="sj">
+										<a href="#">手机</a>
+									</div>
+									<i class="i7"></i>
+								</li>
+								<li class="l1 fl">
+									<div>
+										<a href="#"><img src="img/7.jif.gif "/></a>												
+									</div>
+									<div class="sj">
+										<a href="#">手机</a>
+									</div>
+									<i class="i7"></i>
+								</li>
+								<li class="l1 fl">
+									<div>
+										<a href="#"><img src="img/7.jif.gif "/></a>												
+									</div>
+									<div class="sj">
+										<a href="#">手机</a>
+									</div>
+									<i class="i7"></i>
+								</li>
+								<li class="l1 fr">
+									<div>
+										<a href="#"><img src="img/7.jif.gif "/></a>												
+									</div>
+									<div class="sj">
+										<a href="#">手机</a>
+									</div>
+								</li>
+							</ul>
+						</div>
